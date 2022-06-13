@@ -1,4 +1,4 @@
-<h2>- 👋 Olá, eu sou o @allanmateus</h2>
+<h2>👋 Olá, eu sou o @allanmateus</h2>
 - 👀 Desejo aprender cada vez mais para desenvolver
      minhas habilidades em desenvolvimento de software.<br>
 - 🌱 Tecnologias que estou estudando atualmente:<br>
