@@ -1,7 +1,9 @@
 <h2>👋 Olá, eu sou o @allanmateus</h2>
-- 👀 Desejo aprender cada vez mais para desenvolver
+<h3>Estudo para me tornar um desenvolvedor de software.</h3>
+ 👀 Desejo aprender cada vez mais para desenvolver
      minhas habilidades em desenvolvimento de software.<br>
-- 🌱 Tecnologias que estou estudando atualmente:<br>
+     
+ 🌱 Tecnologias que estou estudando atualmente:<br>
    <ul style="list-style:unstyled;">
      <li>
          <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
