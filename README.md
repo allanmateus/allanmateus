@@ -14,10 +14,9 @@
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     
-<div style: display:flex; flex-direction:row; align-content:center;>
 - 📞 Você pode me encontrar aqui: <br>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> : linkedin.com/in/allanpmateus <br>
- </div>
+
 
 
 <!---
