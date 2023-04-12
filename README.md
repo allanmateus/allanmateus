@@ -1,9 +1,8 @@
 ## 👋 Olá, eu sou o Allan Mateus!
 <h4> Estudo desenvolvimento de software, atualmente com foco em Web FrontEnd <h4>
-<span>📞 Você pode me encontrar aqui:</span>
- <div>
-   👤 <a href="linkedin.com/in/allanpmateus">Meu perfil no LinkedIn</a>
- </div>
+ 
+<span>📞 Você pode me encontrar aqui: </span> <a href="linkedin.com/in/allanpmateus">Meu perfil no LinkedIn</a>
+
  
  <br>
 
@@ -25,7 +24,9 @@
     <div>
      
   <br>   
+     
  <span>🧠 Também conheço:</span>
+     <br>
     <div>
       <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
