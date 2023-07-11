@@ -1,13 +1,11 @@
 ## 👋 Olá, eu sou o Allan Mateus!
 
 <span>📞 Você pode me encontrar aqui: </span> <a href="linkedin.com/in/allanpmateus">Meu perfil no LinkedIn, </a><span>vamos nos conectar :)</span>
-
 <h4>Ativamente me desenvolvendo em análise de dados.<h4>
- <br> 
+
+<small>Utilizo principalmente o conhecimento de negócios, estatística e storytelling, aliados à SQL, Python Power BI e Excel<br> para obter insigths que apoiem as tomadas de decisão e geração de valor.</small>
  
- <small>Utilizo principalmente o conhecimento de negócios, estatística e storytelling, aliados à SQL, Python Power BI e Excel<br> para obter insigths que apoiem as tomadas de decisão e geração de valor.</small>
- 
- <br>
+<br>
  
  
  <span>🌱🧠 Tecnologias em que estou me aprimorando atualmente:</span>
