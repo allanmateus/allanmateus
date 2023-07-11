@@ -1,34 +1,26 @@
 ## 👋 Olá, eu sou o Allan Mateus!
-<h4> Estudo desenvolvimento de software, atualmente com foco em Web FrontEnd <h4>
- 
-<span>📞 Você pode me encontrar aqui: </span> <a href="linkedin.com/in/allanpmateus">Meu perfil no LinkedIn</a>
 
+<span>📞 Você pode me encontrar aqui: </span> <a href="linkedin.com/in/allanpmateus">Meu perfil no LinkedIn, </a><span>vamos nos conectar :)</span>
+
+<h4>Ativamente me desenvolvendo em análise de dados.<h4>
+ <br> 
+ 
+ <small>Utilizo principalmente o conhecimento de negócios, estatística e storytelling, aliados à SQL, Python Power BI e Excel<br> para obter insigths que apoiem as tomadas de decisão e geração de valor.</small>
  
  <br>
-
- <br>
  
- <span>🌱 Tecnologias que estou estudando atualmente:</span>
+ 
+ <span>🌱🧠 Tecnologias em que estou me aprimorando atualmente:</span>
     <div>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-      <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    <div>
-     
-  <br>   
-     
- <span>🧠 Também conheço:</span>
-     <br>
-    <div>
-      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
+         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>         
     </div>
-  
+     
 
 
 <!---
