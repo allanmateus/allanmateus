@@ -3,7 +3,7 @@
 <span>📞 Você pode me encontrar aqui: </span> <a href="linkedin.com/in/allanpmateus">Meu perfil no LinkedIn, </a><span>vamos nos conectar :)</span>
 <h4>Ativamente me desenvolvendo em análise de dados.<h4>
 
-<small>Utilizo principalmente o conhecimento de negócios, estatística e storytelling, aliados à SQL, Python Power BI e Excel<br> para obter insigths que apoiem as tomadas de decisão e geração de valor.</small>
+<small>Utilizo principalmente o conhecimento de negócios, estatística e storytelling, aliados à SQL, Python, Power BI e Excel<br> para obter insigths que apoiem as tomadas de decisão e geração de valor.</small>
  
 <br>
  
